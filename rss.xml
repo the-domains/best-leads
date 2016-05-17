@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Best Leads]]></title>
         <description><![CDATA[Best Leads]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/best-leads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 09:44:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 10:06:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/best-leads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Best Leads]]></title>
-            <description><![CDATA[<article><h1>Best Leads</h1><p>Helping exhibitors at events connect with the right attendees.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Best Leads</h1><p>Helping exhibitors at events connect with the right attendees.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8537ceb-910d-419d-b491-7e4de3892c4d.png"></article>]]></description>
             <link>http://www.bestleads.co.nz/</link>
             <guid isPermaLink="false">380e4f02-e9a1-45e0-9893-324543132de4</guid>
-            <pubDate>Tue, 17 May 2016 09:44:05 GMT</pubDate>
+            <pubDate>Tue, 17 May 2016 10:06:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
