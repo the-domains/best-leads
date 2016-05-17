@@ -1,7 +1,7 @@
 ---
 description: Look professional and show customers you take your business seriously. No more scraps of paper and scrambling for a pen that works. Eliminate expensive and time-consuming data entry and build a database that you can access immediately so you can start making your sales calls.
-dateModified: '2016-05-17T09:27:43.873Z'
-datePublished: '2016-05-17T09:27:43.939Z'
+dateModified: '2016-05-17T09:25:49.958Z'
+datePublished: '2016-05-17T09:38:47.143Z'
 title: 'Super easy data collection!'
 author: []
 starred: false
