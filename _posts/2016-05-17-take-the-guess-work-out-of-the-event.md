@@ -1,7 +1,7 @@
 ---
 description: 'Increase sales staff engagement by giving them a tool that will amplify their skills and lift their success. Real time data allows you to monitor staff performance if you are not on site. For vendors less confident in direct sales, our tool will breakdown some of the barriers you feel at trade shows.'
-dateModified: '2016-05-17T09:27:43.812Z'
-datePublished: '2016-05-17T09:27:43.860Z'
+dateModified: '2016-05-17T09:27:18.529Z'
+datePublished: '2016-05-17T09:38:43.042Z'
 title: 'Take the guess work out of the event. '
 author: []
 starred: false
