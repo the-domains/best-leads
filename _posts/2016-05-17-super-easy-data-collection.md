@@ -1,8 +1,8 @@
 ---
-description: "Look professional and show customers you take your business seriously. No more scraps of paper\nand scrambling for a pen that works. Eliminate expensive and time-consuming data entry and build \na database that you can access immediately so you can start making your sales calls."
-dateModified: '2016-05-18T10:34:24.134Z'
-datePublished: '2016-05-18T10:45:32.515Z'
-title: Save time
+description: 'We can put your questions on tablets (iPad or Android) along with your branding. These will work off line and online. Online tablets provide live reporting. Export your data at any time, even choose a random winner at the push of a button. '
+dateModified: '2016-05-17T10:16:55.910Z'
+datePublished: '2016-05-18T10:45:40.391Z'
+title: Super easy data collection
 author: []
 sourcePath: _posts/2016-05-17-super-easy-data-collection.md
 starred: false
@@ -12,4 +12,4 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/195888932dfe540c1b9b9fddc07ae9ed9b5e71a1.jpg" /><h1>Save time</h1><p>Look professional and show customers you take your business seriously. No more scraps of paper and scrambling for a pen that works. Eliminate expensive and time-consuming data entry and build a database that you can access immediately so you can start making your sales calls.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac69fa1f-c0dd-47cb-8885-6104094eabf2.jpg" /><h1>Super easy data collection</h1><p>We can put your questions on tablets (iPad or Android) along with your branding. These will work off line and online. Online tablets provide live reporting. Export your data at any time, even choose a random winner at the push of a button. </p></article>
