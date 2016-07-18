@@ -1,16 +1,16 @@
 layout_spectrum: 0.5195754352025688
-typography_spectrum: 0.10129983653314412
+typography_spectrum: 0.23240254307165742
 color:
-  brandStrength: 0.11018932773731649
-  lightness: 0.861904283054173
-  saturation: 0.9556909538805485
-  rhythmicContrast: 0.30034599802456796
+  brandStrength: 0.23338561947457492
+  lightness: 0.9626601655036211
+  saturation: 0.5803182052914053
+  rhythmicContrast: 0.20016674767248333
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
 name: Best Leads | In Person data collection
 navigation:
   - id: 758e9194-72a1-472d-aef0-d316c36c6395
