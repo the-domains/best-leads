@@ -29,3 +29,7 @@ navigation:
     url: 2016-07-18-what-we-do.html
     name: What we do
     type: content
+  - id: 'https://bestleadsnz.getdata.biz/admin/'
+    url: 'https://bestleadsnz.getdata.biz/admin/'
+    name: Customer login
+    type: external
