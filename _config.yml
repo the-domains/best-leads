@@ -11,9 +11,13 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: Best Leads | In Person data collection consultants
+name: Best Leads | In Person data collection
 navigation:
   - id: 758e9194-72a1-472d-aef0-d316c36c6395
     url: 2016-07-18-about-us.html
     name: About us
+    type: content
+  - id: 84ac3885-1b15-44fe-a922-332432beefa7
+    url: 2016-07-18-contact-us.html
+    name: Contact us
     type: content
