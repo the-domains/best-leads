@@ -17,10 +17,6 @@ navigation:
     url: 2016-07-18-about-us.html
     name: About us
     type: content
-  - id: 84ac3885-1b15-44fe-a922-332432beefa7
-    url: 2016-07-18-contact-us.html
-    name: Contact us
-    type: content
   - id: c6373ea6-adfc-4a73-a6ba-b119c91fbf96
     url: 2016-07-18-prices.html
     name: Prices
@@ -28,6 +24,10 @@ navigation:
   - id: 965d916d-7fcd-4d75-b092-5d9b63256750
     url: 2016-07-18-what-we-do.html
     name: What we do
+    type: content
+  - id: 84ac3885-1b15-44fe-a922-332432beefa7
+    url: 2016-07-18-contact-us.html
+    name: Contact us
     type: content
   - id: 'https://bestleadsnz.getdata.biz/admin/'
     url: 'https://bestleadsnz.getdata.biz/admin/'
