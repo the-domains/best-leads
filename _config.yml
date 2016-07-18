@@ -25,3 +25,7 @@ navigation:
     url: 2016-07-18-prices.html
     name: Prices
     type: content
+  - id: 965d916d-7fcd-4d75-b092-5d9b63256750
+    url: 2016-07-18-what-we-do.html
+    name: What we do
+    type: content
