@@ -37,3 +37,5 @@ navigation:
     url: 'https://bestleadsnz.getdata.biz/admin/'
     name: Customer login
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9928ed-6d86-4fd9-969f-6d09eeb217c9.jpg
