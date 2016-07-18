@@ -21,3 +21,7 @@ navigation:
     url: 2016-07-18-contact-us.html
     name: Contact us
     type: content
+  - id: c6373ea6-adfc-4a73-a6ba-b119c91fbf96
+    url: 2016-07-18-prices.html
+    name: Prices
+    type: content
