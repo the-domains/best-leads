@@ -1,16 +1,20 @@
-layout_spectrum: 0.5195754352025688
-typography_spectrum: 0.9793228984344751
+typography_spectrum: 0.10129983653314412
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.23338561947457492
-  lightness: 0.9626601655036211
-  saturation: 0.5803182052914053
-  rhythmicContrast: 0.20016674767248333
+  brandStrength: 0.11018932773731649
+  lightness: 0.861904283054173
+  saturation: 0.9556909538805485
+  rhythmicContrast: 0.30034599802456796
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.5195754352025688
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d50d6c-547c-41ac-805d-1dfd5722058f.png
 name: Best Leads | In Person data collection
 navigation:
   - id: 758e9194-72a1-472d-aef0-d316c36c6395
