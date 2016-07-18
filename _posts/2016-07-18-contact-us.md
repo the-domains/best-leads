@@ -1,15 +1,14 @@
 ---
 description: Call Phill on 021 456 267
-dateModified: '2016-07-18T10:48:46.762Z'
-datePublished: '2016-07-18T10:48:59.606Z'
+dateModified: '2016-07-18T10:50:01.519Z'
+datePublished: '2016-07-18T10:50:02.432Z'
 title: Contact us
 author: []
-starred: false
 sourcePath: _posts/2016-07-18-contact-us.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: contact-us/index.html
+_type: Blurb
 
 ---
 # Contact us
