@@ -1,4 +1,26 @@
-name: Best Leads | In Person data collection
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9928ed-6d86-4fd9-969f-6d09eeb217c9.jpg
+navigation:
+  - id: 758e9194-72a1-472d-aef0-d316c36c6395
+    url: 2016-07-18-about-us.html
+    name: About us
+    type: content
+  - id: c6373ea6-adfc-4a73-a6ba-b119c91fbf96
+    url: 2016-07-18-prices.html
+    name: Prices
+    type: content
+  - id: 965d916d-7fcd-4d75-b092-5d9b63256750
+    url: 2016-07-18-what-we-do.html
+    name: What we do
+    type: content
+  - id: 84ac3885-1b15-44fe-a922-332432beefa7
+    url: 2016-07-18-contact-us.html
+    name: Contact us
+    type: content
+  - id: 'https://bestleadsnz.getdata.biz/admin/'
+    url: 'https://bestleadsnz.getdata.biz/admin/'
+    name: Customer login
+    type: external
 collections:
   - index:
       path: /
@@ -24,30 +46,8 @@ color:
     - '#3498DB'
     - '#2980B9'
   lightness: 0.861904283054173
-typography_spectrum: 0.1012998365331441
+typography_spectrum: 0.6505376
 layout_spectrum: 0.9014337
-navigation:
-  - id: 758e9194-72a1-472d-aef0-d316c36c6395
-    url: 2016-07-18-about-us.html
-    name: About us
-    type: content
-  - id: c6373ea6-adfc-4a73-a6ba-b119c91fbf96
-    url: 2016-07-18-prices.html
-    name: Prices
-    type: content
-  - id: 965d916d-7fcd-4d75-b092-5d9b63256750
-    url: 2016-07-18-what-we-do.html
-    name: What we do
-    type: content
-  - id: 84ac3885-1b15-44fe-a922-332432beefa7
-    url: 2016-07-18-contact-us.html
-    name: Contact us
-    type: content
-  - id: 'https://bestleadsnz.getdata.biz/admin/'
-    url: 'https://bestleadsnz.getdata.biz/admin/'
-    name: Customer login
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9928ed-6d86-4fd9-969f-6d09eeb217c9.jpg
 content_rating:
   adult: false
+name: Best Leads | In Person data collection
