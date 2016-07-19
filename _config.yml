@@ -1,21 +1,31 @@
-typography_spectrum: 0.10129983653314412
-content_rating:
-  adult: false
+name: Best Leads | In Person data collection
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d50d6c-547c-41ac-805d-1dfd5722058f.png
 color:
-  brandStrength: 0.11018932773731649
-  lightness: 0.861904283054173
   saturation: 0.9556909538805485
-  rhythmicContrast: 0.30034599802456796
+  brandStrength: 0.1101893277373165
+  rhythmicContrast: 0.300345998024568
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.5195754352025688
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d50d6c-547c-41ac-805d-1dfd5722058f.png
-name: Best Leads | In Person data collection
+  lightness: 0.861904283054173
+typography_spectrum: 0.1012998365331441
+layout_spectrum: 0.9014337
 navigation:
   - id: 758e9194-72a1-472d-aef0-d316c36c6395
     url: 2016-07-18-about-us.html
@@ -39,3 +49,5 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9928ed-6d86-4fd9-969f-6d09eeb217c9.jpg
+content_rating:
+  adult: false
