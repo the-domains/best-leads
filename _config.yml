@@ -1,18 +1,20 @@
+layout_spectrum: 0.16192720225080848
 typography_spectrum: 0.6505376
+color:
+  saturation: 0.6531138140708208
+  brandStrength: 0.6194478354882449
+  rhythmicContrast: 0.6930837179534137
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  lightness: 0.6523395290132612
+coverPrefs:
+  filter: false
 content_rating:
   adult: false
-color:
-  saturation: 0.9556909538805485
-  brandStrength: 0.1101893277373165
-  rhythmicContrast: 0.300345998024568
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  lightness: 0.861904283054173
-layout_spectrum: 0.9014337
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d50d6c-547c-41ac-805d-1dfd5722058f.png
 name: Best Leads | In Person data collection
